@@ -23,6 +23,11 @@ CGTN俄语，https://0472.org/hls/cgtne.m3u8
 
 🐉4K-8K频道,#genre#
 纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+CCTV4KIPV4，http://148.135.93.213:81/live.php?id=CCTV4K-av3a
+CCTV16-4KIPV4，http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
+CCTV8KIPV4，http://148.135.93.213:81/live.php?id=CCTV8K-av3a
+CCTV16-4KIPV6，http://[2409:8087:5e08:24::12]:6610/000000001001/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+
 
 
 🐉央视频道🐯,#genre#
@@ -184,6 +189,38 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 🐉卫视频道🐯,#genre#
+北京卫视，http://148.135.93.213:81/live.php?id=北京卫视
+湖南卫视，http://148.135.93.213:81/live.php?id=湖南卫视
+浙江卫视，http://148.135.93.213:81/live.php?id=浙江卫视
+江苏卫视，http://148.135.93.213:81/live.php?id=江苏卫视
+陕西卫视，http://148.135.93.213:81/live.php?id=陕西卫视
+湖北卫视，http://148.135.93.213:81/live.php?id=湖北卫视
+内蒙古卫视，http://148.135.93.213:81/live.php?id=内蒙古卫视
+江西卫视，http://148.135.93.213:81/bestv.php?id=jxws8m/8000000
+广东卫视，http://148.135.93.213:81/live.php?id=广东卫视
+东方卫视，http://148.135.93.213:81/live.php?id=东方卫视
+东南卫视，http://148.135.93.213:81/bestv.php?id=dnwshd8m/8000000
+吉林卫视，http://148.135.93.213:81/bestv.php?id=jlwshd8m/8000000
+四川卫视，http://148.135.93.213:81/live.php?id=四川卫视
+天津卫视，http://148.135.93.213:81/bestv.php?id=scwshd/8000000
+安徽卫视，http://148.135.93.213:81/bestv.php?id=ahwshd8m/8000000
+山东卫视，http://148.135.93.213:81/bestv.php?id=sdws8m/8000000
+山西卫视，http://148.135.93.213:81/live.php?id=山西卫视
+广西卫视，http://148.135.93.213:81/bestv.php?id=gxwshd8m/8000000
+河北卫视，http://148.135.93.213:81/bestv.php?id=hbwshd8m/8000000
+河南卫视，http://148.135.93.213:81/bestv.php?id=hnwshd8m/8000000
+深圳卫视，http://148.135.93.213:81/bestv.php?id=szwshd8m/8000000
+甘肃卫视，http://148.135.93.213:81/live.php?id=甘肃卫视
+贵州卫视，http://148.135.93.213:81/bestv.php?id=gzwshd8m/8000000
+辽宁卫视，http://148.135.93.213:81/bestv.php?id=lnwshd8m/8000000
+重庆卫视，http://148.135.93.213:81/bestv.php?id=cqws8m/8000000
+黑龙江卫视，http://148.135.93.213:81/bestv.php?id=hljwshd8m/8000000
+海南卫视，http://148.135.93.213:81/bestv.php?id=hainanwshd8m/8000000
+大湾区卫视，http://148.135.93.213:81/live.php?id=大湾区卫视
+西藏卫视，http://148.135.93.213:81/live.php?id=西藏卫视
+
+
+
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
@@ -911,155 +948,58 @@ CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 
 
 
-北京卫视，http://148.135.93.213:81/live.php?id=北京卫视
-湖南卫视，http://148.135.93.213:81/live.php?id=湖南卫视
-浙江卫视，http://148.135.93.213:81/live.php?id=浙江卫视
-江苏卫视，http://148.135.93.213:81/live.php?id=江苏卫视
-陕西卫视，http://148.135.93.213:81/live.php?id=陕西卫视
-湖北卫视，http://148.135.93.213:81/live.php?id=湖北卫视
-内蒙古卫视，http://148.135.93.213:81/live.php?id=内蒙古卫视
-江西卫视，http://148.135.93.213:81/bestv.php?id=jxws8m/8000000
-广东卫视，http://148.135.93.213:81/live.php?id=广东卫视
-东方卫视，http://148.135.93.213:81/live.php?id=东方卫视
-东南卫视，http://148.135.93.213:81/bestv.php?id=dnwshd8m/8000000
-吉林卫视，http://148.135.93.213:81/bestv.php?id=jlwshd8m/8000000
-四川卫视，http://148.135.93.213:81/live.php?id=四川卫视
-天津卫视，http://148.135.93.213:81/bestv.php?id=scwshd/8000000
-安徽卫视，http://148.135.93.213:81/bestv.php?id=ahwshd8m/8000000
-山东卫视http://148.135.93.213:81/bestv.php?id=sdws8m/8000000
-http://148.135.93.213:81/live.php?id=山西卫视
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视IPV4",
-广西卫视，http://148.135.93.213:81/bestv.php?id=gxwshd8m/8000000
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视IPV4",
-河北卫视，http://148.135.93.213:81/bestv.php?id=hbwshd8m/8000000
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视IPV4",
-河南卫视，http://148.135.93.213:81/bestv.php?id=hnwshd8m/8000000
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视IPV4",
-深圳卫视，http://148.135.93.213:81/bestv.php?id=szwshd8m/8000000
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" group-title="卫视IPV4",
-甘肃卫视，http://148.135.93.213:81/live.php?id=甘肃卫视
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视IPV4",
-贵州卫视，http://148.135.93.213:81/bestv.php?id=gzwshd8m/8000000
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视IPV4",
-辽宁卫视，http://148.135.93.213:81/bestv.php?id=lnwshd8m/8000000
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视IPV4",重庆卫视，
-http://148.135.93.213:81/bestv.php?id=cqws8m/8000000
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视IPV4",黑龙江卫视，
-黑龙江卫视，http://148.135.93.213:81/bestv.php?id=hljwshd8m/8000000
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视IPV4",海南卫视，
-海南卫视，http://148.135.93.213:81/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视，
-http://148.135.93.213:81/live.php?id=大湾区卫视
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视IPV4",西藏卫视，
-http://148.135.93.213:81/live.php?id=西藏卫视
 
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视-4K",CCTV16-4KIPV6，
-http://[2409:8087:5e08:24::12]:6610/000000001001/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="cctv_app_tv" http-header="Uid=joizcz2tmpbyr53k" group-title="央视-菁彩声",CCTV4KIPV4，
-http://148.135.93.213:81/live.php?id=CCTV4K-av3a
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="cctv_app_tv" http-header="Uid=joizcz2tmpbyr53k" group-title="央视-菁彩声",CCTV16-4KIPV4，
-http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" http-user-agent="cctv_app_tv" http-header="Uid=joizcz2tmpbyr53k" group-title="央视-菁彩声",CCTV8KIPV4，
-http://148.135.93.213:81/live.php?id=CCTV8K-av3a
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视IPV6",CCTV1IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000001
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视IPV6",CCTV2IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000502
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视IPV6",CCTV3IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000003
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视IPV6",CCTV4IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000503
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视IPV6",CCTV5IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000005
-#EXTINF:-1 tvg-id="CCTV5PLUS" tvg-name="CCTV5+" group-title="央视IPV6",CCTV5+，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000507
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视IPV6",CCTV6IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000006
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视IPV6",CCTV7IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000504
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视IPV6",CCTV8IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000008
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视IPV6",CCTV9IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000505
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视IPV6",CCTV10IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000506
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视IPV6",CCTV11IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000508
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视IPV6",CCTV12IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000509
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视IPV6",CCTV13IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000510
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视IPV6",CCTV14IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000511
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视IPV6",CCTV15IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000512
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视IPV6",CCTV16IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视IPV6",CCTV17IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
+🐉IPV6,#genre#
+CCTV1IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000001
+CCTV2IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000502
+CCTV3IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000003
+CCTV4IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000503
+CCTV5IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000005
+CCTV5+IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000507
+CCTV6IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000006
+CCTV7IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000504
+CCTV8IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000008
+CCTV9IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000505
+CCTV10IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000506
+CCTV11IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000508
+CCTV12IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000509
+CCTV13IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000510
+CCTV14IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000511
+CCTV15IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000512
+CCTV16IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016
+CCTV17IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
 
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视IPV6",北京卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000516
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视IPV6",湖南卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000523
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视IPV6",东方卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000518
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视IPV6",四川卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000025
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视IPV6",天津卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000530
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视IPV6",安徽卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000514
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视IPV6",山东卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000527
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视IPV6",广东卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000520
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视IPV6",广西卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000034
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视IPV6",江苏卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000524
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视IPV6",江西卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000525
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视IPV6",河北卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000057
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视IPV6",河南卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000027
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视IPV6",浙江卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000531
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视IPV6",海南卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000037
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视IPV6",深圳卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000529
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视IPV6",湖北卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000522
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视IPV6",山西卫视IPV6，
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视IPV6",东南卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000519
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视IPV6",贵州卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000036
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视IPV6",辽宁卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000526
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视IPV6",重庆卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000517
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视IPV6",黑龙江卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000521
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://assets.livednow.com/logo/宁夏卫视.png" group-title="卫视IPV6",宁夏卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000047
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视IPV6",陕西卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000026
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视IPV6",吉林卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000030
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://assets.livednow.com/logo/云南卫视.png" group-title="卫视IPV6",云南卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000035
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://assets.livednow.com/logo/三沙卫视.png" group-title="卫视IPV6",三沙卫视IPV6，
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://assets.livednow.com/logo/青海卫视.png" group-title="卫视IPV6",青海卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000042
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://assets.livednow.com/logo/新疆卫视.png" group-title="卫视IPV6",新疆卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000045
-#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://assets.livednow.com/logo/厦门卫视.png" group-title="卫视IPV6",厦门卫视IPV6，
-http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000058
+北京卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000516
+湖南卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000523
+东方卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000518
+四川卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000025
+天津卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000530
+安徽卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000514
+山东卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000527
+广东卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000520
+广西卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000034
+江苏卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000524
+江西卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000525
+河北卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000057
+河南卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000027
+浙江卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000531
+海南卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000037
+深圳卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000529
+湖北卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000522
+山西卫视IPV6，http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
+东南卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000519
+贵州卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000036
+辽宁卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000526
+重庆卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000517
+黑龙江卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000521
+宁夏卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000047
+陕西卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000026
+吉林卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000030
+云南卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000035
+三沙卫视IPV6，http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
+青海卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000042
+新疆卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000045
+厦门卫视IPV6，http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000058
 
