@@ -23,10 +23,10 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 
 🐉4K-8K频道,#genre#
 纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-CCTV4KIPV4，http://148.135.93.213:81/live.php?id=CCTV4K-av3a
-CCTV16-4KIPV4，http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
-CCTV8KIPV4，http://148.135.93.213:81/live.php?id=CCTV8K-av3a
-CCTV16-4KIPV6，http://[2409:8087:5e08:24::12]:6610/000000001001/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+CCTV4KIPV4,http://148.135.93.213:81/live.php?id=CCTV4K-av3a
+CCTV16-4KIPV4,http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
+CCTV8KIPV4,http://148.135.93.213:81/live.php?id=CCTV8K-av3a
+CCTV16-4KIPV6,http://[2409:8087:5e08:24::12]:6610/000000001001/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 
 🐉IPV6,#genre#
 CCTV1IPV6,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000001
