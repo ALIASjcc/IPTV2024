@@ -173,11 +173,7 @@ CCTV16,http://148.135.93.213:81/live.php?id=CCTV16
 CCTV17,http://148.135.93.213:81/live.php?id=CCTV17
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CCTV兵器科技,http://xuys.top:8888/udp/225.1.2.166:5002
-CCTV兵器科技2,http://xuys.top:8888/udp/225.1.2.167:5002
-CCTV兵器科技3,http://xuys.top:8888/udp/225.1.2.168:5002
-CCTV兵器科技4,http://xuys.top:8888/udp/225.1.2.170:5002
-CCTV兵器科技5,http://xuys.top:8888/udp/225.1.2.171:5002
+
 CCTV高尔夫球,http://xuys.top:8888/udp/225.1.2.169:5002
 
 
@@ -201,11 +197,16 @@ CCTV风云音乐,http://221.196.136.66:1/udp/225.1.2.176:5002
 CCTV高尔夫球,http://221.196.136.66:1/udp/225.1.2.169:5002
 CCTV第一剧场,http://221.196.136.66:1/udp/225.1.2.175:5002
 
+
+
 CCTV怀旧剧场,http://112.234.23.81:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV怀旧剧场1,http://112.234.23.81:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV怀旧剧场2,http://112.234.23.81:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV怀旧剧场3,http://112.234.23.81:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云足球,http://112.234.23.81:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV世界地理,http://112.234.23.81:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV第一剧场,http://112.234.23.81:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV第一剧场11,http://112.234.23.81:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
