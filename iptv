@@ -215,16 +215,21 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 
-CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 CCTV兵器科技,http://xuys.top:8888/udp/225.1.2.166:5002
 CCTV高尔夫球,http://xuys.top:8888/udp/225.1.2.169:5002
 
 
-CCTV风云足球2,http://111.61.236.247:9081/hls/56/index.m3u8
-CCTV风云足球1,http://111.61.236.247:9081/hls/57/index.m3u8
 CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
-CCTV女性时尚2,http://111.61.236.247:9081/hls/60/index.m3u8
+武术世界,http://111.61.236.247:9081/hls/60/index.m3u8
+武术世界2,http://111.61.236.247:9081/hls/61/index.m3u8
+武术世界3,http://111.61.236.247:9081/hls/62/index.m3u8
+武术世界4,http://111.61.236.247:9081/hls/63/index.m3u8
+武术世界5,http://111.61.236.247:9081/hls/64/index.m3u8
+武术世界6,http://111.61.236.247:9081/hls/65/index.m3u8
+武术世界7,http://111.61.236.247:9081/hls/66/index.m3u8
+武术世界8,http://111.61.236.247:9081/hls/67/index.m3u8
+武术世界9,http://111.61.236.247:9081/hls/68/index.m3u8
 
 
 CCTV电视指南,http://221.196.136.66:1/udp/225.1.2.167:5002
