@@ -15,13 +15,6 @@ Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u
 Dali TV,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 EBC YOYO,https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8
 澳门卫视,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
-TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-GTN阿语,https://0472.org/hls/cgtna.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
 
 
 
@@ -237,6 +230,8 @@ CCTV中学生,http://121.24.98.232:8090/hls/24/index.m3u8
 CCTV中学生,http://121.24.98.154:8090/hls/24/index.m3u8
 CCTV中学生,http://xuys.top:8888/udp/225.1.1.193:5002
 
+TVBS-Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGYN,https://pi.0472.org/chc/jt.m3u8
@@ -245,6 +240,7 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CGTN英语,https://0472.org/hls/cgtn.m3u8
 
 
 
